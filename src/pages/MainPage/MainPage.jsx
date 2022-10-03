@@ -18,6 +18,7 @@ const initialState = {
   loading: false,
   error: null,
   isModal: false,
+  
 };
 
 const loadingState = prevState => ({
